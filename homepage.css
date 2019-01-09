@@ -1,0 +1,180 @@
+.read_more_tab {
+	width: 100%;
+  text-align: center;
+  color: white;
+  font-size: 12px;
+}
+.read_more {
+	margin-left: 10px;
+  color: rgb(255, 255, 255);
+  border-bottom: 1px dashed rgb(255, 255, 255);
+  text-decoration: none !important;
+}
+.menu {
+	justify-content: space-between;
+	padding: 0px;
+	padding-left: 25px;
+}
+nav a {
+	color: #777;
+	border-color: #e7e7e7
+	border: 0 1px;
+}
+.menu_button {
+	display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  height: 55px;
+  padding: 0px 35px;
+}
+.signup {
+	background-color: rgb(249, 222, 56);
+}
+.menu_letter {
+  color: rgba(28, 27, 33, 0.5);
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 800;
+  font-size: 14px;
+  line-height: 1.33;
+  margin: 0px;
+}
+.container-fluid {
+	padding: 0px;
+}
+.main_body {
+	display: flex;
+	flex-direction: column;
+}
+.recommend_part {
+	position: relative;
+	padding: 122px 0px 142px;
+	background-color: rgb(48, 103, 240);
+}
+.row {
+	width: 100%;
+	margin: 0px;
+}
+	.artline {
+		position: absolute;
+		left: 3%;
+		top: 70px;
+	}
+	.device {
+    padding: 0px;
+	}
+	.letter {
+		color: rgb(255, 255, 255);
+    letter-spacing: 0.4px;
+    text-align: left;
+	}
+		.big {
+	    font-weight: 800;
+	    font-size: 48px;
+	    line-height: 1;
+	    font-style: italic;
+		}
+		.small {
+	    font-weight: 400;
+	    font-size: 16px;
+	    line-height: 1.4;
+		}
+		.signup_letter {
+	    font-weight: 800;
+	    font-size: 18px;
+	    line-height: 1.4;
+		}
+		.wrx {
+	    color: rgb(249, 222, 56);
+	    font-weight: 600;
+	    font-size: 18px;
+	    cursor: pointer;
+		}
+		.signup_button_letter {
+			color: rgb(124, 110, 27);
+	    text-align: center;
+	    font-weight: 800;
+	    font-size: 16px;
+	    line-height: 1.4;
+	    margin: 0px;
+		}
+  .signup_button {
+  	position: relative;
+    cursor: pointer;
+    height: fit-content;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    text-align: left;
+    max-width: 320px;
+    width: 100%;
+    background-color: rgb(249, 222, 56);
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 2px 0px, rgba(255, 255, 255, 0.12) 0px -1px 0px 0px inset;
+    border-radius: 4px;
+    outline: 0px;
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+    margin: 24px 0px 0px;
+    padding: 16px;
+  }
+  .social {
+    display: flex;
+    margin-top: 24px;
+    max-width: 320px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+  }
+	.social_btn {
+		max-width: 155px;
+    flex: 1 1 0%;
+	}
+.bitcoin_part {
+	background-image: linear-gradient(rgb(227, 234, 252), rgb(255, 255, 255));
+  padding: 100px 0px 110px;
+}
+.bitcoin_recommend {
+  position: relative;
+  padding: 0px 0px 0px 4%;
+}
+	.text {
+    letter-spacing: 0.4px;
+    text-align: left;
+	}
+		.first {
+			color: rgb(28, 27, 33);
+	    font-weight: 700;
+	    font-size: 26px;
+	    line-height: 1.13;
+		}
+		.second {
+			color: rgba(28, 27, 33, 0.87);
+	    font-weight: 400;
+	    font-size: 16px;
+	    line-height: 1.43;
+	    padding: 35px 0px 0px;
+		}
+		.third {
+			color: rgba(28, 27, 33, 0.54);
+	    font-weight: 400;
+	    font-size: 14px;
+	    line-height: 1.71;
+		}
+		.fourth {
+	   	color: rgb(48, 103, 240);
+	    font-weight: bold;
+	    font-size: 14px;
+	    line-height: 1.43;
+	    padding: 24px 0px 0px;
+		}
+	.line {
+	  width: 100%;
+	  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+	  margin: 24px 0px;
+	}
